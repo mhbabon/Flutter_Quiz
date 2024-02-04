@@ -55,8 +55,5 @@ const questions = [
     'What are the main building blocks of Flutter UTs?',
     ['Widgets', 'Components', 'Blocks', 'Functions'],
   ),
-  QuizQuestion(
-    'What are the main building blocks of Flutter UTs?',
-    ['Widgets', 'Components', 'Blocks', 'Functions'],
-  ),
+
 ];
